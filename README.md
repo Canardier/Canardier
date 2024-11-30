@@ -2,7 +2,6 @@
 - 👀 I’m interested in Developpement
 - 🌱 I’m currently learning how to being a Devops
 - 💞️ I’m looking to collaborate on every-project open on github
-- 📫 You can send me a mail from CuckOrDuck@hotmail.com
 
 <!---
 Canardier/Canardier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
